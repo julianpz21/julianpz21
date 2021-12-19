@@ -28,7 +28,7 @@ Bioengineering Proffesional at <a href="https://udea.edu.co/" target="_blank" ti
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/julianpz1
-[linkedin]: https://www.linkedin.com/in/julian-alberto-pineda-zapata-3b26bb67
+[linkedin]: https://www.linkedin.com/in/julian-pineda-zapata/
 
 
 <!--
