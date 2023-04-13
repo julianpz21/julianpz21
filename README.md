@@ -16,11 +16,6 @@ Bioengineering Proffesional at <a href="https://udea.edu.co/" target="_blank" ti
 	<img src='https://img.shields.io/badge/git-%23fc6d26.svg?&style=for-the-badge&logo=git&logoColor=white' alt='Git'/>
 </details>
 
-<details>
-	<summary><b>GitHub Stats</b></summary>
-	<br/>
-	<img src="https://jf-gh-stats.vercel.app/api?username=julianpz21&show_icons=true&count_private=true&title_color=afc2ef&icon_color=afc2ef&theme=react" alt="GitHub Stats" align="top"/>
-</details>
 
 ### Connect with me:
 
